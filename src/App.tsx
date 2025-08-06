@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <Button>click kar</Button>
-      {/* <Button name="dabba" /> */}
+      <Button>mujhe bhi click akr</Button>
     </div>
   );
 }
